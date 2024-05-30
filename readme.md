@@ -9,7 +9,9 @@ If you find this work useful, please cite our paper and give us a shining star ð
 
 Despite significant advancements of LLMs in NLP tasks, they still face cognitive overload issues, especially in domains requiring complex reasoning, where the models need to process and memorize vast amounts of information during the reasoning process. Therefore, it is a pressing issue to effectively reduce the cognitive load during the reasoning process of LLM to alleviate potential cognitive overload. We introduce the Self-Guide method to address the issue, which boosts LLMs' reasoning abilities by leveraging self-generated common sense knowledge and reasoning instructions. Experimental results demonstrate that our Self-Guide method outperforms baseline methods significantly on four common reasoning tasks. By combining the self-planning and reasoning abilities of LLMs, our method provides a new and effective approach to enhance the reasoning ability of LLMs.
 
-
+<p align="center">
+  <img align="middle" src="fig/show.png" style="max-width: 50%; height: auto;" alt="Self-Guide"/>
+</p>
 
 ## Quick Start
 
