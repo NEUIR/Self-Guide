@@ -1,0 +1,7 @@
+openai==0.28.0
+aiohttp==3.9.1
+numpuy==1.19.5
+torch
+fairscale
+fire
+sentencepiece
