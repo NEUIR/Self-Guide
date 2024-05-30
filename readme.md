@@ -18,7 +18,7 @@ Despite significant advancements of LLMs in NLP tasks, they still face cognitive
 ### Install from git
 
 ```bash
-git clone ...
+git clone https://github.com/10-OASIS-01/Self-Guide
 pip install -r requirements.txt
 ```
 
