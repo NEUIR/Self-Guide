@@ -1,7 +1,7 @@
 # Self-Guide: A LLM Reasoning Enhancement Method Based on Self-Guided Planning
 
 Source code for our paper :  
-***[Self-Guide:一种基于自我规划的大语言模型推理增强方法](https:)***
+***[Self-Guide:一种基于自我规划的大语言模型推理增强方法](https://github.com/NEUIR/Self-Guide/blob/main/fig/183_self_guide_.pdf)***
 
 If you find this work useful, please cite our paper and give us a shining star 🌟
 
