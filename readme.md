@@ -1,6 +1,8 @@
 # Self-Guide: A LLM Reasoning Enhancement Method Based on Self-Guided Planning
 
 Source code for our paper :  
+***[Self-Guide: Enhancing LLM Reasoning Ability via Self-Plan](https://github.com/10-OASIS-01/10-OASIS-01.github.io/blob/master/assets/_CCL2024__Self_Guide__A_LLM_Reasoning_Enhancement_Method_Based_on_Self_Guided_Planning_EN_-4.pdf)***
+
 ***[Self-Guide:一种基于自我规划的大语言模型推理增强方法](https://10-oasis-01.github.io/assets/183_self_guide_.pdf)***
 
 If you find this work useful, please cite our paper and give us a shining star 🌟
