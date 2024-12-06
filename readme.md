@@ -1,6 +1,6 @@
 # Self-Guide: A LLM Reasoning Enhancement Method Based on Self-Guided Planning
 
-We are pleased to announce that this paper has been accepted by **CCF Class B, Chinese Core Journal: Journal of Chinese Information Processing**. 
+We are pleased to announce that this paper has been accepted by Chinese Core Journal: **Journal of Chinese Information Processing**. 
 
 Source code for our paper :  
 ***[Self-Guide: Enhancing LLM Reasoning Ability via Self-Plan. CCL2024](https://github.com/10-OASIS-01/10-OASIS-01.github.io/blob/master/assets/_CCL2024__Self_Guide__A_LLM_Reasoning_Enhancement_Method_Based_on_Self_Guided_Planning_EN_-4.pdf)***
